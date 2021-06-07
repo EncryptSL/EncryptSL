@@ -3,7 +3,7 @@
 💬 I'm a developer of websites and also minecraft plugins. I'm about **22 years old** and I currently creating web applications in the **Nette Framework**. You may know me by the nickname **encryptsl**, I live in the Czech republic which is located in the middle of Europe. I really like **beer**, as well as **barbecues** or other social events with friends. I hate tiktok and I'll never put anything on it, that's all.
 
 - 🤖 I use `.java`, `.kt`, `.html`, `.php`
-- 🥅 2021 Goals: Contribute more to Open Source projects and sleep more!
+- 🥅 2021 Goals: Contribute more to OpenSource!
 - ⚡ Facts: My Programming career started in game minecraft
 
 **🔭 My Developers Projects**
