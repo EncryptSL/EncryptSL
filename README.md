@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a developer of websites and also minecraft plugins. I'm about **22 years old** and I currently creating web applications in the **Nette Framework**. You may know me by the nickname **encryptsl**, I live in the Czech republic which is located in the middle of Europe. I really like **beer**, as well as **barbecues** or other social events with friends. I hate tiktok and I'll never put anything on it, that's all.
 
 <!--
 **EncryptSL/EncryptSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
