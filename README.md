@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/EncryptSL/EncryptSL/main/Hi.gif" width="40px" />, I'm EncryptSL</h1>
 
-<h2 align="center"><img src="https://visage.surgeplay.com/bust/300/0ba5241be84149088da4e8bec9a8f902"></h2>
+<h2 align="center"><img src="https://visage.surgeplay.com/bust/200/0ba5241be84149088da4e8bec9a8f902"></h2>
 
 
 
