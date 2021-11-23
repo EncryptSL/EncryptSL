@@ -13,6 +13,7 @@
 **🔭 My Developers Projects**
 - https://github.com/DevToolsCZ - My Developer Group
 - https://github.com/EncryptSL/CENSOR-RELOADED-ISSUES - CensorReloaded Bukkit plugin for Chat Detection
+- https://github.com/EncryptSL/DarkOrbitDMGKalkulacka - Simple DarkOrbit Calculator of DMG.
 - https://github.com/EncryptSL/GWarpSignAddon - GWarpSign Addon for GWarp
 - https://github.com/EncryptSL/AndromedaAntiBot - My Private AntiBot called Andromeda
 - https://github.com/EncryptSL/Coords - For Own Whitelist Server Coordination in Hud
