@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=encryptsl&show_icons=true&theme=tokyonight">
+<h4><img src="https://github-readme-stats.vercel.app/api?username=encryptsl&show_icons=true&theme=tokyonight">
 </h4>
