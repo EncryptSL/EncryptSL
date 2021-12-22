@@ -2,8 +2,6 @@
 
 <h3 align="center"><img src="https://avatars.githubusercontent.com/u/9441083?v=4" height="350" height="350"> 
 </h3>
-<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=encryptsl&show_icons=true&theme=tokyonight">
-</h4>
 
 💬 I'm a developer of websites and also minecraft plugins. I'm about **22 years old** and I currently creating web applications in the **Nette Framework**. You may know me by the nickname **encryptsl**, I live in the Czech republic which is located in the middle of Europe. I really like **beer**, as well as **barbecues** or other social events with friends. I hate tiktok and I'll never put anything on it, that's all.
 
@@ -35,3 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=encryptsl&show_icons=true&theme=tokyonight">
+</h4>
