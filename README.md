@@ -12,7 +12,7 @@
 - https://github.com/EncryptSL/DarkOrbitDMGKalkulacka - Simple DarkOrbit Calculator of DMG.
 - https://github.com/EncryptSL/GWarpSignAddon - GWarpSign Addon for GWarp
 - https://github.com/EncryptSL/AndromedaAntiBot - My Private AntiBot called Andromeda
-- https://github.com/EncryptSL/Coords - For Own Whitelist Server Coordination in Hud
+- https://github.com/EncryptSL/EchelonCore - For Own Whitelist Server Coordination in Hud
 - https://github.com/EncryptSL/minecraft-webshop - Webshop for Minecraft based on Nette Framework and Naja
 - https://github.com/EncryptSL/ForgeCore - Private Better Server Manager like a EssentialsX.
 
