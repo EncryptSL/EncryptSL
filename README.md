@@ -14,7 +14,7 @@
 - https://github.com/EncryptSL/AndromedaAntiBot - My Private AntiBot called Andromeda
 - https://github.com/EncryptSL/EchelonCore - For Own Whitelist Server Coordination in Hud
 - https://github.com/EncryptSL/minecraft-webshop - Webshop for Minecraft based on Nette Framework and Naja
-- https://github.com/EncryptSL/ForgeCore - Private Better Server Manager like a EssentialsX.
+- https://github.com/EncryptSL/XeloxCommands - JDA Discord Command Framework.
 
 <!--
 **EncryptSL/EncryptSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
