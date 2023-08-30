@@ -15,6 +15,7 @@
 - https://github.com/EncryptSL/EchelonCore - For Own Whitelist Server Coordination in Hud
 - https://github.com/EncryptSL/minecraft-webshop - Webshop for Minecraft based on Nette Framework and Naja
 - https://github.com/EncryptSL/XeloxCommands - JDA Discord Command Framework.
+- https://github.com/EncryptSL/Echelon - Own DiscordBot for my server.
 
 <!--
 **EncryptSL/EncryptSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
