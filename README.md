@@ -1,36 +1,72 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/EncryptSL/EncryptSL/main/Hi.gif" width="40px" />, I'm EncryptSL</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/EncryptSL/EncryptSL/main/Hi.gif" width="30px" /> 
+  I'm EncryptSL
+</h1>
 
-💬 I'm a developer of websites and also minecraft plugins. I'm about **24+ years old** and I currently creating web applications in the **Nette Framework**. You may know me by the nickname **encryptsl**, I live in the Czech republic which is located in the middle of Europe. I really like **beer**, as well as **barbecues** or other social events with friends. I hate tiktok and I'll never put anything on it, that's all.
+<p align="center">
+  <strong>Software Developer & Minecraft Enthusiast</strong><br>
+  Building robust web applications and immersive gaming experiences.
+</p>
 
-- 🤖 I use `.java`, `.kt`, `.html`, `.php`
-- 🥅 2021 Goals: Contribute more to OpenSource!
-- ⚡ Facts: My Programming career started in game minecraft
+<p align="center">
+  <a href="https://encryptsl.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-encryptsl.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-**🔭 My Developers Projects**
-- https://github.com/DevToolsCZ - My Developer Group
-- https://github.com/EncryptSL/CENSOR-RELOADED-ISSUES - CensorReloaded Bukkit plugin for Chat Detection
-- https://github.com/EncryptSL/DarkOrbitDMGKalkulacka - Simple DarkOrbit Calculator of DMG.
-- https://github.com/EncryptSL/GWarpSignAddon - GWarpSign Addon for GWarp
-- https://github.com/EncryptSL/AndromedaAntiBot - My Private AntiBot called Andromeda
-- https://github.com/EncryptSL/EchelonCore - For Own Whitelist Server Coordination in Hud
-- https://github.com/EncryptSL/minecraft-webshop - Webshop for Minecraft based on Nette Framework and Naja
-- https://github.com/EncryptSL/XeloxCommands - JDA Discord Command Framework.
-- https://github.com/EncryptSL/Echelon - Own DiscordBot for my server.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Czech_Republic-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Framework-Nette-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Loves-Beer_%26_BBQ-6f4e37?style=flat-square" />
+</p>
 
-<!--
-**EncryptSL/EncryptSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Professional Profile
+I am a developer focused on backend systems and web technologies. My journey started in the world of **Minecraft**, which naturally led me to master **Java** and **Kotlin**. Today, I bridge the gap between gaming and web development by creating high-performance web applications using the **Nette Framework**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏢 **Core Focus:** Full-stack development (PHP/Nette) and Minecraft Plugin development.
+* 🛠 **Architecture:** Clean code enthusiast with a focus on modularity.
+* 🍺 **Off-duty:** You’ll find me at a barbecue with a cold beer, enjoying time with friends.
+* 🛑 **Personal Note:** No TikTok, ever. Purely focused on meaningful code and community.
 
-<h4><img src="https://github-readme-stats.vercel.app/api?username=encryptsl&show_icons=true&theme=tokyonight">
-</h4>
+---
+
+### 🛠 Technical Toolbox
+
+| Field | Technologies |
+| :--- | :--- |
+| **Backend** | `PHP 8.x`, `Nette Framework`, `Java`, `Kotlin` |
+| **Web Frontend** | `HTML5`, `CSS3`, `JavaScript`, `Naja` |
+| **Game Dev** | `Bukkit/Spigot/Paper API`, `JDA (Discord)` |
+| **Database** | `MySQL`, `MariaDB` |
+
+---
+
+### 📂 Featured Projects
+
+#### 🌐 Web Applications
+* **[Minecraft Webshop](https://github.com/EncryptSL/minecraft-webshop)** – A full-featured e-commerce solution for Minecraft servers built on Nette.
+* **[XeloxCommands](https://github.com/EncryptSL/XeloxCommands)** – A streamlined JDA Discord Command Framework.
+
+#### 🎮 Game Systems
+* **[LiteEco](https://github.com/EncryptSL/LiteEco)** – (New) High-performance economy plugin for Minecraft.
+* **[CensorReloaded](https://github.com/EncryptSL/CENSOR-RELOADED-ISSUES)** – Advanced chat detection and moderation.
+* **[AndromedaAntiBot](https://github.com/EncryptSL/AndromedaAntiBot)** – Robust security solution for game servers.
+
+---
+
+### 📊 GitHub Activity (Live Stats)
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=encryptsl&show_icons=true&theme=tokyonight&count_private=true" alt="EncryptSL Stats" height="180px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=encryptsl&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/DevToolsCZ">
+    <img src="https://img.shields.io/badge/Organization-DevToolsCZ-green?style=for-the-badge&logo=github" />
+  </a>
+</p>
