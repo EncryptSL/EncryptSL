@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Software Developer & Minecraft Enthusiast</strong><br>
-  Building robust web applications and immersive gaming experiences.
+  Building web applications and immersive gaming experiences.
 </p>
 
 <p align="center">
@@ -47,12 +47,11 @@ I am a developer focused on backend systems and web technologies. My journey sta
 
 #### 🌐 Web Applications
 * **[Minecraft Webshop](https://github.com/EncryptSL/minecraft-webshop)** – A full-featured e-commerce solution for Minecraft servers built on Nette.
-* **[XeloxCommands](https://github.com/EncryptSL/XeloxCommands)** – A streamlined JDA Discord Command Framework.
+* **[My Sites](https://encryptsl.github.io)** - My personal portfolio
 
-#### 🎮 Game Systems
+#### 🎮 Minecraft Game Plugins
 * **[LiteEco](https://github.com/EncryptSL/LiteEco)** – (New) High-performance economy plugin for Minecraft.
 * **[CensorReloaded](https://github.com/EncryptSL/CENSOR-RELOADED-ISSUES)** – Advanced chat detection and moderation.
-* **[AndromedaAntiBot](https://github.com/EncryptSL/AndromedaAntiBot)** – Robust security solution for game servers.
 
 ---
 
