@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <strong>Software Developer & Minecraft Enthusiast</strong><br>
-  Building web applications and immersive gaming experiences.
+  <strong>Software Developer & Video Creator</strong><br>
+  Building backend applications and creating digital content.
 </p>
 
 <p align="center">
@@ -16,19 +16,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Czech_Republic-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Framework-Nette-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Loves-Beer_%26_BBQ-6f4e37?style=flat-square" />
+  <img src="https://img.shields.io/badge/Main_Langs-Kotlin_%7C_PHP-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interests-Gym_%7C_Ferratas_%7C_Alpinism-purple?style=flat-square" />
 </p>
 
 ---
 
-### 🚀 Professional Profile
-I am a developer focused on backend systems and web technologies. My journey started in the world of **Minecraft**, which naturally led me to master **Java** and **Kotlin**. Today, I bridge the gap between gaming and web development by creating high-performance web applications using the **Nette Framework**.
+### 🚀 About Me
 
-* 🏢 **Core Focus:** Full-stack development (PHP/Nette) and Minecraft Plugin development.
-* 🛠 **Architecture:** Clean code enthusiast with a focus on modularity.
-* 🍺 **Off-duty:** You’ll find me at a barbecue with a cold beer, enjoying time with friends.
-* 🛑 **Personal Note:** No TikTok, ever. Purely focused on meaningful code and community.
+I'm a **Software Developer** specializing in **Kotlin** and **PHP**. I developed the LiteEco plugin, which has reached over **27K+ downloads**, and I work on various projects both inside and outside the Minecraft ecosystem.
+
+In addition to coding, I focus on **video production and editing**. When I'm away from my desk, you'll usually find me at the **gym**, conquering **via ferratas**, or high-altitude **alpinism**.
+
+* 🛠 **Core Focus:** Backend architecture, API integration, and clean code.
+* 🎬 **Creative Side:** Video creation, post-production, and editing.
+* 🏔 **Outdoor Life:** Winter trekking, high-altitude alpine routes, and technical via ferratas.
 
 ---
 
@@ -36,26 +38,26 @@ I am a developer focused on backend systems and web technologies. My journey sta
 
 | Field | Technologies |
 | :--- | :--- |
-| **Backend** | `PHP 8.x`, `Nette Framework`, `Java`, `Kotlin` |
-| **Web Frontend** | `HTML5`, `CSS3`, `JavaScript`, `Naja` |
-| **Game Dev** | `Bukkit/Spigot/Paper API`, `JDA (Discord)` |
-| **Database** | `MySQL`, `MariaDB` |
+| **Backend** | `Kotlin`, `PHP`, `Nette Framework`, `Java` |
+| **Video Production** | `Video Editing & Production`, `Post-processing` |
+| **Game Dev & API** | `PaperMC / Bukkit API`, `JDA (Discord API)` |
+| **Database** | `MariaDB`, `MySQL` |
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🌐 Web Applications
-* **[Minecraft Webshop](https://github.com/EncryptSL/minecraft-webshop)** – A full-featured e-commerce solution for Minecraft servers built on Nette.
-* **[My Sites](https://encryptsl.github.io)** - My personal portfolio
+#### 🎮 Minecraft Plugins & Ecosystem
+* **[LiteEco](https://github.com/EncryptSL/LiteEco)** – High-performance economy plugin for Minecraft servers (27K+ downloads).
+* **[CensorReloaded](https://github.com/EncryptSL/CENSOR-RELOADED-ISSUES)** – Advanced chat detection and moderation tool.
+* **[Minecraft Webshop](https://github.com/EncryptSL/minecraft-webshop)** – An e-commerce solution for Minecraft servers built on Nette.
 
-#### 🎮 Minecraft Game Plugins
-* **[LiteEco](https://github.com/EncryptSL/LiteEco)** – (New) High-performance economy plugin for Minecraft.
-* **[CensorReloaded](https://github.com/EncryptSL/CENSOR-RELOADED-ISSUES)** – Advanced chat detection and moderation.
+#### 🌐 Web & Presentation
+* **[My Sites](https://encryptsl.github.io)** – My personal portfolio and documentation space.
 
 ---
 
-### 📊 GitHub Activity (Live Stats)
+### 📊 GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=encryptsl&show_icons=true&theme=tokyonight&count_private=true" alt="EncryptSL Stats" height="180px" />
